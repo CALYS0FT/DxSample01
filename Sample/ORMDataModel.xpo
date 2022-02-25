@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="58e5dd93-3e18-4f08-bb90-8e1210fa2c30" namespace="ORMDataModel" dataBaseShemaInfo="H4sIAAAAAAAEAMWU226bQBCG7yv1HZCvzWExmBBhogSnUdQ2iuKk6u2wO9iosCB2sd2373IwCY7Tgyq1d8w3/2jnH2Y3uNjnmbbFSqQFX0yIYU0uwvfvgisQuJJFBWu85UmhKRUX53vBFpONlOW5ae52O2M3M4pqbdqWRcyvnz+t6AZzmAzi9NdiPeVCAqc4UadqWvAIcYaiObKND+QFOKA7yDFcQV5mGJjPZBBd84aFsqpVvg+G5DIVDXgqGUgME8iEEo3hoL2pU3bLQt/xY7QdTwdrbuuO61Ddt925Ppv5Ds4IJsBoYPbioTgqsjrnYtT/m1glGg9dMmw+A/MFGAl/Zu9PLY5szmPmgc908FxlkxBX9yF2dWJToC6xkXjklU1Vbv6F0whKqdbv35ulMdDEZ3MdCCW641lEjy2P6mi7M48yO/Yc9ttmT9F+MwfSx8+SoLlkyO6rgrZQMzv8pbuR4RK31/uyQiGMJUgwtjYx7KnWpxdNZLiGNdWiOpN1hQuOtawgm2r3dZyl9CN+fyy+IV/EZ2eMeK7DPMtCx4fAPBzRnhdlIASK5gc81MN0g0umWsMk3fd9dWhVJyP0gHmxxWNhR4+1kXpYwidON8DXqIbbxt1oTvUQqMmUWMn0P/f2RhvBDXKs1HpFRZ4jl6Lf0Vd4JF6iSNfq80OqVuGoYpxry5aYocRLIQqaQnNRDjUnEm3BXZ1lzZpd4Qa2aVGpLUpA7Ye6YMcZ9dSbR299+AMm8LRnFAYAAA==" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" createdInVersion="21.2.5.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="21.2.5.0" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+  <classes>
+    <dataBaseObjectModelHasClasses Id="93271a05-338e-46ad-9e6d-94d172334558">
+      <xpObject Id="949be247-a062-454c-9256-3394e31efadc" name="Sample" baseClass="XPObject" userFileName="Sample" designerFileName="Sample.Designer" className="Sample" virtualName="Sample">
+        <fields>
+          <generalXpObjectHasFields Id="eb801dbe-999a-4b69-b30d-0a31d1f92865">
+            <field Id="96bd7a9d-a752-4115-9ab5-12cac512e171" name="Name" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="8f810734-5889-44ad-830f-e12bda90f5b5">
+            <field Id="cbacf9d6-a1c1-4701-b07c-e2537cd2b74d" name="Caption" virtualColumnType="String" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+  </classes>
+</dataBaseObjectModel>
